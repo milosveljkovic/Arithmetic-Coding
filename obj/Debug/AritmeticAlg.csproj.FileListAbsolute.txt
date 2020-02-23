@@ -1,0 +1,10 @@
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\bin\Debug\AritmeticAlg.exe.config
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\bin\Debug\AritmeticAlg.exe
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\bin\Debug\AritmeticAlg.pdb
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.csprojAssemblyReference.cache
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.Properties.Resources.resources
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.csproj.GenerateResource.cache
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.csproj.CoreCompileInputs.cache
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.exe
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.pdb
+C:\Users\veljk\source\repos\AritmeticAlg\AritmeticAlg\obj\Debug\AritmeticAlg.Form1.resources
